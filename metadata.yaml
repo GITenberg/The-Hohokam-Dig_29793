@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34174'
     url: http://www.gutenberg.org/2009/agents/34174
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29793#The-Hohokam-Dig
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-08-24'
 gutenberg_type: Text
